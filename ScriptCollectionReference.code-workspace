@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "Entire repository"
+		}
+	],
+	"tasks": {
+		"version": "2.0.0",
+		"tasks": [
+		]
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Debug current file",
+				"type": "python",
+				"request": "launch",
+				"program": "${{file}}",
+				"console": "integratedTerminal"
+			}
+		]
+	},
+	"settings": {
+		"window.title": "${{dirty}} ${{rootName}}",
+		"spellright.documentTypes": [
+			"markdown",
+			"plaintext"
+		],
+		"spellright.language": [
+			"en"
+		]
+	}
+}
