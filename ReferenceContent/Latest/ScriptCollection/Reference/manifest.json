@@ -20,6 +20,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Articles/UsingCustomImageRegistry.md",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/UsingCustomImageRegistry.html",
+          "hash": "X95vGk+w9cbfROxijlY8ky4x+zu09uf8JWdEYyUUb/U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "ReferenceContent/Hints.md",
       "output": {
         ".html": {
@@ -39,7 +51,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "IqxS/H0f1OB4BEp53K/NJTaPFkd+RHPOgp82yjouipY="
+          "hash": "QzJ9hJB5f/h/0CWESF5YTFRckqk/X9v6SjVkyPUE0LE="
         }
       },
       "is_incremental": false,
@@ -60,7 +72,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 3,
+          "total_file_count": 4,
           "skipped_file_count": 0
         }
       }
